@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactProject/static/css/main.74b2c96b.css",
+    "main.css": "/ReactProject/static/css/main.cc5ab617.css",
     "main.js": "/ReactProject/static/js/main.fab212aa.js",
     "static/js/787.ef7b48db.chunk.js": "/ReactProject/static/js/787.ef7b48db.chunk.js",
     "static/media/dep3.jpg": "/ReactProject/static/media/dep3.daa61335cd261d1e94f8.jpg",
@@ -79,12 +79,12 @@
     "static/media/fa-v4compatibility.ttf": "/ReactProject/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/ReactProject/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ReactProject/index.html",
-    "main.74b2c96b.css.map": "/ReactProject/static/css/main.74b2c96b.css.map",
+    "main.cc5ab617.css.map": "/ReactProject/static/css/main.cc5ab617.css.map",
     "main.fab212aa.js.map": "/ReactProject/static/js/main.fab212aa.js.map",
     "787.ef7b48db.chunk.js.map": "/ReactProject/static/js/787.ef7b48db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74b2c96b.css",
+    "static/css/main.cc5ab617.css",
     "static/js/main.fab212aa.js"
   ]
 }

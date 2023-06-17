@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactProject/static/css/main.cc5ab617.css",
-    "main.js": "/ReactProject/static/js/main.fab212aa.js",
+    "main.css": "/ReactProject/static/css/main.7088373b.css",
+    "main.js": "/ReactProject/static/js/main.c67176d7.js",
     "static/js/787.ef7b48db.chunk.js": "/ReactProject/static/js/787.ef7b48db.chunk.js",
     "static/media/dep3.jpg": "/ReactProject/static/media/dep3.daa61335cd261d1e94f8.jpg",
     "static/media/dep1.jpg": "/ReactProject/static/media/dep1.5ef3fcd13d39ab291330.jpg",
@@ -13,6 +13,7 @@
     "static/media/img-dep4.jpg": "/ReactProject/static/media/img-dep4.bba589a91aaee8824617.jpg",
     "static/media/coach2.jpg": "/ReactProject/static/media/coach2.498849c2bccba8dd904e.jpg",
     "static/media/hero1.jpg": "/ReactProject/static/media/hero1.9098a2cd7ed4e3e64c2c.jpg",
+    "static/media/ahmed.jpg": "/ReactProject/static/media/ahmed.1700f2ef120a1fca704f.jpg",
     "static/media/hero4.jpg": "/ReactProject/static/media/hero4.90ce41c6daf17b186013.jpg",
     "static/media/hero5.jpg": "/ReactProject/static/media/hero5.27fc7a2c7ef831c6f9e9.jpg",
     "static/media/SI3.jpg": "/ReactProject/static/media/SI3.64be057417d4f34d2a20.jpg",
@@ -47,10 +48,11 @@
     "static/media/fa-brands-400.woff2": "/ReactProject/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/3.jpg": "/ReactProject/static/media/3.2f224f1e61f4d78e6fbe.jpg",
     "static/media/2.jpg": "/ReactProject/static/media/2.a56c53c64ad78359a9ac.jpg",
+    "static/media/sofia.jpg": "/ReactProject/static/media/sofia.b106588d7ed4a49a7f51.jpg",
     "static/media/fa-regular-400.ttf": "/ReactProject/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/loukman.jpg": "/ReactProject/static/media/loukman.95fe5b232683a1a0a917.jpg",
     "static/media/1.jpg": "/ReactProject/static/media/1.b25c1cd7c2e855cc3480.jpg",
     "static/media/Black Gold Elegant Bird Club Logo.png": "/ReactProject/static/media/Black Gold Elegant Bird Club Logo.508c423a5aaf9982a785.png",
-    "static/media/loukman.png": "/ReactProject/static/media/loukman.c3f945216dc12c9498dc.png",
     "static/media/fa-regular-400.woff2": "/ReactProject/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/roboto-latin-900italic.woff": "/ReactProject/static/media/roboto-latin-900italic.c20d916c1a1b094c1cec.woff",
     "static/media/roboto-latin-300italic.woff": "/ReactProject/static/media/roboto-latin-300italic.bd5b7a13f2c52b531a2a.woff",
@@ -79,12 +81,12 @@
     "static/media/fa-v4compatibility.ttf": "/ReactProject/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/ReactProject/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ReactProject/index.html",
-    "main.cc5ab617.css.map": "/ReactProject/static/css/main.cc5ab617.css.map",
-    "main.fab212aa.js.map": "/ReactProject/static/js/main.fab212aa.js.map",
+    "main.7088373b.css.map": "/ReactProject/static/css/main.7088373b.css.map",
+    "main.c67176d7.js.map": "/ReactProject/static/js/main.c67176d7.js.map",
     "787.ef7b48db.chunk.js.map": "/ReactProject/static/js/787.ef7b48db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc5ab617.css",
-    "static/js/main.fab212aa.js"
+    "static/css/main.7088373b.css",
+    "static/js/main.c67176d7.js"
   ]
 }

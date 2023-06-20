@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactProject/static/css/main.2b096a5c.css",
-    "main.js": "/ReactProject/static/js/main.126939c9.js",
+    "main.js": "/ReactProject/static/js/main.19a009e9.js",
     "static/js/787.ef7b48db.chunk.js": "/ReactProject/static/js/787.ef7b48db.chunk.js",
     "static/media/dep3.jpg": "/ReactProject/static/media/dep3.daa61335cd261d1e94f8.jpg",
     "static/media/dep1.jpg": "/ReactProject/static/media/dep1.5ef3fcd13d39ab291330.jpg",
@@ -82,11 +82,11 @@
     "static/media/fa-v4compatibility.woff2": "/ReactProject/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ReactProject/index.html",
     "main.2b096a5c.css.map": "/ReactProject/static/css/main.2b096a5c.css.map",
-    "main.126939c9.js.map": "/ReactProject/static/js/main.126939c9.js.map",
+    "main.19a009e9.js.map": "/ReactProject/static/js/main.19a009e9.js.map",
     "787.ef7b48db.chunk.js.map": "/ReactProject/static/js/787.ef7b48db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b096a5c.css",
-    "static/js/main.126939c9.js"
+    "static/js/main.19a009e9.js"
   ]
 }
